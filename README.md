@@ -1,16 +1,35 @@
-## Hi there 👋
+# Patrick Teixeira
 
-<!--
-**patrick-teixeira/patrick-teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend com experiencia em automação, sistemas escaláveis, APIs e integrações Web3.
 
-Here are some ideas to get you started:
+## Tecnologias & Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,linux,git,nodejs" />
+  <img src="https://cdn.simpleicons.org/selenium" height="48" />
+  <img src="https://cdn.simpleicons.org/opencv" height="48" />
+  <img src="https://cdn.simpleicons.org/yolo" height="48" />
+</p>
+
+<p align="left">
+</p>
+
+---
+
+## Sobre Mim
+
+Tenho  experiência prática no desenvolvimento de sistemas escaláveis, automação de processos e integrações avançadas com APIs.
+
+Habilidades:
+- Desenvolvimento Backend
+- Automação
+- Visão Computacional
+- Blockchain/Web3
+- Sistemas de Alta Performance
+
+---
+
+## Contato
+
+- Linkedin: https://www.linkedin.com/in/patrick-teixeira-700a191b3/
+- Email: patrickteixeira2004@gmail.com
